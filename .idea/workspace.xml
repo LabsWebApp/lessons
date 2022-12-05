@@ -4,17 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9635c43b-f5bd-4f02-b827-848d6514be05" name="Changes" comment="" />
+    <list default="true" id="9635c43b-f5bd-4f02-b827-848d6514be05" name="Changes" comment="Lesson 01 (Relationship)">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/01_Relationship/01_RelationshipOperators.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/01_Conjunction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/02_BitOperations/01_NOT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/02_BitOperations/02_AND.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/02_BitOperations/03_OR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/02_BitOperations/04_XOR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/02_BitOperations/05_CircularShift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/02_Disjunction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/03_Inversion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/04_Implication.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/05_Equivalence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/06_OderOfExecution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/07_BinaryArithmetic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/08_Boolean Operators.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mat/02_BooleanOperations/09_ DeMorgan'sLaws.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/01_Relationship/01_RelationshipOperators.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/01_Relationship/02_Refactoring.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2IR0nacmDDDBFlpN5YTw4w5UW5t" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,10 +69,26 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/vovik/IdeaProjects/lessons/mat",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vovik\IdeaProjects\lessons\mat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vovik\IdeaProjects\lessons\mat\01_Relationship" />
+      <recent name="C:\Users\vovik\IdeaProjects\lessons\src\main\scala\Relationship" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,7 +97,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670129260351</updated>
+      <workItem from="1670129261436" duration="13290000" />
+      <workItem from="1670250257418" duration="364000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 01 (Relationship)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 01 (Relationship)" />
   </component>
 </project>
